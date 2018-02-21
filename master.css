@@ -1,0 +1,9 @@
+html, body {
+    background: rgba(0, 0, 0, 0);
+}
+
+#first{
+  width: 100px;
+  height: 100px;
+  float: left;
+}
